@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#define LIMITE 5
 
 int utn_getString(  char *msg,
                     char *msgError,
