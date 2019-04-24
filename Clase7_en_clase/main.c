@@ -4,7 +4,6 @@
 
 #define LEN_LISTA    100
 
-
 int buscarLibre(char lista[][20],
                 int len,
                 int* pIndex)
